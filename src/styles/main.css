@@ -1,0 +1,7 @@
+.visited {
+    border: 3pt dashed red;
+}
+
+.not_visited {
+    border: 3pt solid green;
+}
